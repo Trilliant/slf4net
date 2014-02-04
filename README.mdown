@@ -16,7 +16,7 @@ When deploying your application, choose either the slf4net.log4net or slf4net.NL
 
 Configuration
 -------------
-See the [configuration wiki page](https://github.com/englishtown/slf4net/wiki/Configuration).
+See the [configuration wiki page](https://github.com/jeremfg/slf4net/wiki/Configuration).
 
 
 Getting started
